@@ -1,0 +1,33 @@
+*{margin:0;
+padding:0;
+text-decoration: none;
+
+}
+html,body{
+height:100%;
+}
+.header{border: solid red;
+    display:flex;
+    flex:1;
+ justify-content: space-between;
+}
+
+
+ul,li{
+display:flex;
+
+}
+
+li{flex:1;
+    margin-inline: 12px;
+}
+.logo{
+    
+    justify-content: center;
+    align-items:center;
+    
+}
+
+
+
+
